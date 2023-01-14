@@ -1,8 +1,5 @@
-DevOps is a methodology which Involves practices to bridge the gap of Dev and ops team by using Open source automation build tools.
-These are the articles which I refered to,
+DevOps combines development (Dev) and operations (Ops) to unite people, process, and technology in application planning, development, delivery, and operations. 
+DevOps enables coordination and collaboration between formerly siloed roles like development, IT operations, quality engineering, and security.
 
-
-formal defination   :   "DevOps is the union of people, process, and products to enable continuous delivery of value to our end users."
-
-The main goal of DEVOPS is to shorten cycle time. Start with the release pipeline. How long does it take to deploy a change of one line of code or configuration.
-
+Teams adopt DevOps culture, practices, and tools to increase confidence in the applications they build, respond better to customer needs, and achieve business goals faster.
+DevOps helps teams continually provide value to customers by producing better, more reliable products.
